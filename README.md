@@ -1,13 +1,11 @@
 ![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Irshath Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?q=Coding+Transparent+Background&FORM=IRIBIP">
-
-<p align="left"> <img src="https://png.pngtree.com/png-clipart/20230813/original/pngtree-coding-code-developer-screen-vector-picture-image_10552807.png" alt="irshathkhan" /> </p>
+<h3 align="center">A passionate coder learning everyday</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irshathkhan&label=Profile%20views&color=0e75b6&style=flat" alt="irshathkhan" /> </p>
 
 - 🌱 I’m currently learning **DSA , JavaScrit**
 
-- 💬 Ask me about **Java , HTML , CSS , MySQL**
+- 💬 Ask me about **Java , Python, HTML , CSS , SQL Server**
 
 - 📫 How to reach me **s.irshathkhan2004@gmail.com**
 
@@ -19,8 +17,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.bing.com/ck/a?!&&p=421d64f80f573f11b92effa8c6e64098f977bbc68705c1995d0572dbfabaafffJmltdHM9MTc2NTIzODQwMA&ptn=3&ver=2&hsh=4&fclid=16cce171-0906-6fbf-34d8-f7d608d56e86&psq=python&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS9weXRob24v" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads?msockid=16cce17109066fbf34d8f7d608d56e86" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/424/702/png-transparent-microsoft-sql-server-database-microsoft-corporation-application-software-sql-logo-angle-triangle-symmetry.png" alt="sql sever" width="40" height="40"/> </a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irshathkhan&show_icons=true&locale=en&layout=compact" alt="irshathkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irshathkhan&" alt="irshathkhan" /></p>
+
+ </p>
