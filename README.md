@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?q=Coding+Transparent+Background&FORM=IRIBIP">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irshathkhan&label=Profile%20views&color=0e75b6&style=flat" alt="irshathkhan" /> </p>
+<p align="left"> <img src="https://png.pngtree.com/png-clipart/20230813/original/pngtree-coding-code-developer-screen-vector-picture-image_10552807.png" alt="irshathkhan" /> </p>
 
 - 🌱 I’m currently learning **DSA , JavaScrit**
 
